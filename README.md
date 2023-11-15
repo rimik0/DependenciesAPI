@@ -47,4 +47,5 @@ The config should be created in resources. And then fill it in like this example
 
 ## IMPORTANT
 
+If you already have a dependency installed, but the plugin needs a different version of the dependency, it will not overwrite it, but will only display message.
 
